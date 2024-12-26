@@ -2,7 +2,7 @@
 
 This repository contains three Python scripts utilizing YOLOv11s-seg for object segmentation in videos. These scripts progressively enhance object detection accuracy through slicing techniques, making them effective for detecting small or partially visible objects. 
 
- ![Watch Demo on YouTube](https://raw.githubusercontent.com/jsammarco/YoloSlicing/57d5a2bfbf7e0ba5aa967d111868a0d3c575fbdd/banner.gif)
+[<img src="https://raw.githubusercontent.com/jsammarco/YoloSlicing/57d5a2bfbf7e0ba5aa967d111868a0d3c575fbdd/banner.gif">](https://www.youtube.com/watch?v=s6mD_gSRkkI)
 ---
 
 ## Video Explanation
